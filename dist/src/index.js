@@ -84,4 +84,5 @@ class MutexQueue {
     }
 }
 exports.MutexQueue = MutexQueue;
+module.exports = MutexQueue;
 //# sourceMappingURL=index.js.map

@@ -20,5 +20,7 @@
     "url": "https://github.com/alphabetq/mutex-queue/issues"
   },
   "homepage": "https://github.com/alphabetq/mutex-queue#readme",
-  "dependencies": {}
+  "dependencies": {
+    "@types/node": "^14.14.7"
+  }
 }
