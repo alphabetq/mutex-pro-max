@@ -1,6 +1,6 @@
 {
   "name": "mutex-queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Queue with multi lock mutex",
   "main": "dist/src/index.js",
   "scripts": {
