@@ -91,5 +91,3 @@ export class MutexQueue implements QueueInterface<RunFunction>, MutexInterface {
 		})
 	}
 }
-
-module.exports = MutexQueue

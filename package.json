@@ -1,0 +1,24 @@
+{
+  "name": "mutex-queue",
+  "version": "1.0.0",
+  "description": "Queue with multi lock mutex",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphabetq/mutex-queue.git"
+  },
+  "keywords": [
+    "mutex",
+    "queue"
+  ],
+  "author": "alphabetq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphabetq/mutex-queue/issues"
+  },
+  "homepage": "https://github.com/alphabetq/mutex-queue#readme",
+  "dependencies": {}
+}
